@@ -1,11 +1,12 @@
-Automation Testing Project using Selenium WebDriver and TestNG
+# Automation Testing Project – E-commerce
 
-Features:
-- E-commerce functionality automation
-- Usage of different locators
-- Assertion validation
+This project demonstrates basic automation testing using Selenium WebDriver and TestNG.
 
-Tools:
-- Selenium WebDriver
-- Java
-- TestNG
+## Features
+- E-commerce functionality automation  
+- Use of different locators (ID, XPath)   
+
+## Tools
+- Selenium WebDriver  
+- Java  
+- TestNG  
